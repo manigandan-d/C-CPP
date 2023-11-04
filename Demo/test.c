@@ -1,12 +1,8 @@
 #include <stdio.h>
 
-enum Bool{False, True};
-
 int main(int argc, char *argv[])
 {
-    int var = True;
-
-    printf("%d\n", var);
+    printf("Hi Mani\n");
 
     return 0;
 }
